@@ -2,3 +2,93 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
 }
+span{
+    color: yellowgreen;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(yellowgreen,darkgreen);
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 55px;
+}
+.second-div a{
+    margin-left: 50px;
+}
+.first-section{
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    margin-bottom: 130px;
+    
+}
+.first-div{
+    width: 50%;
+    padding-left: 40px;
+}
+
+.second-div img{
+    padding-left: 30px;
+    width: 100%;
+    height: auto;
+    }
+
+.first-div p{
+    text-align: justify;
+    padding-right: 50px;
+}
+.second-div p {
+    text-align: justify;
+    padding: 10px 50px;
+    margin-right: 40px;
+}
+.second-div h1 {
+    padding: 10px 50px;
+    margin-right: 40px;
+}
+.second-section{
+    margin-bottom: 150px;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 130px;
+}
+.flex{
+    display: flex;
+}
+.part{
+    width: 33.33%;
+    margin: 20px;
+    border: 7px solid white;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 20px;
+
+}
+.part p{
+    text-align: justify;
+}
+.part img{
+    width: 100%;
+    padding:0;
+}
+.centre{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    margin: 10px;
+}
+.footer .food{
+    color: orangered;
+}
+.foot-para .network{
+color: gray;
+}
+.footer p{
+    color: wheat;
+}
+.foot-para{
+    padding: 30px;
+}
