@@ -1,9 +1,9 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
 }
 span{
-    color: yellowgreen;
+    color: rgba(89, 206, 42, 0.959);
 }
 a{
     text-decoration: none;
@@ -12,20 +12,17 @@ a{
     color: white;
     font-weight: bold;
     border-radius: 30px;
-    margin-top: 55px;
-}
-.second-div a{
-    margin-left: 50px;
+    margin-top: 105px;
 }
 .first-section{
     background-image: url(images/shapes/Group\ 8450.png);
     background-repeat: no-repeat;
     margin-bottom: 130px;
-    
 }
 .first-div{
     width: 50%;
-    padding-left: 40px;
+    padding-left: 230px;
+    margin-top: 90px;
 }
 
 .second-div img{
@@ -33,6 +30,12 @@ a{
     width: 100%;
     height: auto;
     }
+.first-div h1{
+    color: rgb(77, 72, 72);
+}
+.second-div a{
+    margin-left: 50px;
+}
 
 .first-div p{
     text-align: justify;
@@ -42,6 +45,7 @@ a{
     text-align: justify;
     padding: 10px 50px;
     margin-right: 40px;
+    color: rgb(90, 87, 85);
 }
 .second-div h1 {
     padding: 10px 50px;
@@ -74,6 +78,7 @@ a{
 .centre{
     text-align: center;
     margin-bottom: 40px;
+    color: rgb(75, 69, 69);
 }
 .footer{
     background-color: black;
