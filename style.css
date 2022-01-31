@@ -100,3 +100,31 @@ color: gray;
 .foot-para{
     padding: 30px;
 }
+.last-div {
+    width: 33.33%;
+    padding: 20px;
+}
+.last{
+display: flex;
+box-shadow: 10px 10px 20px gray;
+margin: 75px;
+border-radius: 20px;
+}
+.ram{
+    width: 33.33%;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.sam{
+    width: 33.33%;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.dondo{
+    width: 33.33%;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
